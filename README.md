@@ -93,3 +93,8 @@
 ---
 
 <h3 align="center">🚀 Learning Data Science One Step at a Time 📈</h3>
+
+## 🔥 Contribution Graph
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=syedmashad&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
